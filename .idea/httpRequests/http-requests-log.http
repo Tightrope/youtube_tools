@@ -1,0 +1,91 @@
+GET https://youtube.googleapis.com/v=Wyd9OcI37AY
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T202113.404.html
+
+###
+
+GET https://www.youtube.com/get_video_info?video_id=Wyd9OcI37AY&html5=1&c=TVHTML5&cver=6.20180913
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: VISITOR_INFO1_LIVE=ch92f_Ad80o; YSC=-SnrxGwAFYM
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET https://youtube.googleapis.com/v=Wyd9OcI37AY
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T134158.404.html
+
+###
+
+GET https://youtube.googleapis.com/v/Wyd9OcI37AY
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T134126.404.html
+
+###
+
+GET https://rr5---sn-ab5l6nkd.googlevideo.com/videoplayback?expire=1671495934&ei=nqygY62vCM-ghwbqtqSAAQ&ip=74.75.179.228&id=o-AOvqGGAYl1EqnmBvyAs-Xud-X-JqYA2VXuyqZMzMPWBS&itag=140&source=youtube&requiressl=yes&mh=8f&mm=31,26&mn=sn-ab5l6nkd,sn-vgqsrnlk&ms=au,onr&mv=m&mvi=5&pl=16&initcwndbps=1576250&vprv=1&mime=audio/mp4&ns=FS-vIUN7APTUPNTe50hjWTEK&gir=yes&clen=6431964&dur=397.386&lmt=1545181215761260&mt=1671474070&fvip=1&keepalive=yes&fexp=24001373,24007246&c=WEB&txp=5532432&n=IeYN-7KimF2uCM&sparams=expire,ei,ip,id,itag,source,requiressl,vprv,mime,ns,gir,clen,dur,lmt&sig=AOq0QJ8wRAIgH10mxObtnXCGHjC9iL96ylN9IqBFx-aV9D_H_HxGVRcCIBPeybOy1MQdoR-tEOS0Z3PdGx5ObLpOhhnqlFjFwpJg&lsparams=mh,mm,mn,ms,mv,mvi,pl,initcwndbps&lsig=AG3C_xAwRgIhAJlGJLyKD4MiFnjjE8iieaPbIrp3mCsnlgYIxpO307fpAiEA-PcBDyZjgXct9mYkGfffbCXyUlnh8ycQAT6KwmliiYU=
+Accept: audio/mp4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T133605.200.mp4
+
+###
+
+GET https://www.youtube.com/watch?v=Wyd9OcI37AY
+Accept: video/mp4,video/webm,video/*;q=0.8,*/*;q=0.5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: GPS=1; VISITOR_INFO1_LIVE=ch92f_Ad80o; YSC=-SnrxGwAFYM
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T132535.200.html
+
+###
+
+GET https://rr2---sn-ab5l6nrz.googlevideo.com/videoplayback?expire=1671495273&ei=CaqgY9GvLoXNhgbFsJHgCQ&ip=74.75.179.228&id=o-ALhksLxl9myliu-ZcAKrr-QDaq7HsTf5jxjFvCffq7ON&itag=140&source=youtube&requiressl=yes&mh=Xu&mm=31,26&mn=sn-ab5l6nrz,sn-vgqskne6&ms=au,onr&mv=m&mvi=2&pl=16&initcwndbps=1590000&vprv=1&mime=audio/mp4&ns=DbQc_jkzBark6HpQ0nq_sDMK&gir=yes&clen=343576&dur=21.176&lmt=1600352507549753&mt=1671473374&fvip=1&keepalive=yes&fexp=24001373,24007246&c=WEB&txp=1211222&n=Lo92S1K83Ww5vA&sparams=expire,ei,ip,id,itag,source,requiressl,vprv,mime,ns,gir,clen,dur,lmt&sig=AOq0QJ8wRQIgOdafvWq6WX6nos2bKTtA9YkHk3OrguVSFKsgSz1Qt7oCIQDsNKR1Xoqnoq0_3Ffcr7WgUn6XhsjW7G3u5t1OETIueg==&lsparams=mh,mm,mn,ms,mv,mvi,pl,initcwndbps&lsig=AG3C_xAwRgIhAKfleHMGFXjV0-wMRuIAyeUZkeI9-D4-TH3r_lkDUZuxAiEAhrffEIDJhulWNKAHDZwzcu4nXWJiB1frLiCJ6mfP498=
+Accept: audio/mp4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T132010.200.mp4
+
+###
+
+GET https://www.youtube.com/watch?v=VidjObUYr2Q
+Accept: video/mp4,video/webm,video/*;q=0.8,*/*;q=0.5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Cookie: VISITOR_INFO1_LIVE=ch92f_Ad80o; YSC=-SnrxGwAFYM
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T131434.200.html
+
+###
+
+GET https://www.youtube.com/fff4ecfd-ba1e-47e7-a822-fcc0e0d60ae2
+Accept: video/mp4,video/webm,video/*;q=0.8,*/*;q=0.5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2022-12-19T130911.404.html
+
+###
+

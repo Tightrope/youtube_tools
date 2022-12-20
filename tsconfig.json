@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": true,
+    "lib": [
+      "dom"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
